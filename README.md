@@ -27,11 +27,11 @@
     
     Key Recommendations: Collect more data. For example, math without a calculator would be more correlated with a student’s natural ability, whereas scores of math without a calculator would be more correlated with rote memorization. If we see lower scores without a calculator than we would see that the problem likely has to do with teaching, and systems within the school system than a population’s natural ability. If possible, collect more data about the students themselves, and their personal data. Including what classes they took, which schools they are in, proximity of universities, average income, etc.
 
-    Key takeaways:
 
-1. ACT participation is higher than SAT.
-2. States that do well or have high participation rates on one test, rarely have the same or similar results for the other test.
-3. Government and educational policy has a major impact on participation rates.
-4. Improved and more targeted data collection could aid analysis drastically.
+Key takeaways:
+    1. ACT participation is higher than SAT.
+    2. States that do well or have high participation rates on one test, rarely have the same or similar results for the other test.
+    3. Government and educational policy has a major impact on participation rates.
+    4. Improved and more targeted data collection could aid analysis drastically.
 
 
