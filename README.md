@@ -29,9 +29,9 @@
 
 
 Key takeaways:
-    1. ACT participation is higher than SAT.
-    2. States that do well or have high participation rates on one test, rarely have the same or similar results for the other test.
-    3. Government and educational policy has a major impact on participation rates.
-    4. Improved and more targeted data collection could aid analysis drastically.
+1. ACT participation is higher than SAT.
+2. States that do well or have high participation rates on one test, rarely have the same or similar results for the other test.
+3. Government and educational policy has a major impact on participation rates.
+4. Improved and more targeted data collection could aid analysis drastically.
 
 
